@@ -1,0 +1,5 @@
+{
+  "name": "financeplus",
+  "description": "Uma aplicação completa para controle financeiro pessoal e empresarial, com registro de fluxo de caixa, projeções de saldo e gestão de investimentos.",
+  "requestFramePermissions": []
+}
